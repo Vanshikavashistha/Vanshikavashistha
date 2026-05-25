@@ -20,7 +20,9 @@
 - 🔥 **MLflow** — Fixed CSS scaling bug in artifact view `PR #23564`
 - 📝 **cake-build/website** — Added logging documentation `PR #3407`
 - ✅ **first-contributions** — Merged! `PR #117511`
-
+- ⚡ **DailyForge** — Added confirmation modal before bulk delete `PR #1121`
+- 🧭 **DailyForge** — Added About page link to Navbar `PR #1157`
+- 🎨 **Career-pilot** — Implemented Holographic Theme Hero section `PR #1722`
 ---
 
 ## 📊 GitHub Stats
