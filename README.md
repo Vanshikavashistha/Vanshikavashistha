@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshika-vashistha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="vanshika.vashistha2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vanshika.vashistha2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Vanshikavashistha&color=blueviolet&style=flat" alt="profile views"/>
 </p>
 
@@ -50,8 +50,6 @@
 | 🌐 **DailyForge** | Added About page link to Navbar | `PR #1157` |
 
 ---
-
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
