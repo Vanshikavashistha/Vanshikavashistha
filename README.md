@@ -53,13 +53,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshikavashistha&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikavashistha&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
-
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Vanshikavashistha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  &nbsp;
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikavashistha&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
